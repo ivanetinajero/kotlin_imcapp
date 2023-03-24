@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Mi Primera Aplicacion Android (itinajero 2.0)</string>
+    <string name="app_name">Calcular IMC (Indice de Masa Corporal)</string>
     <string name="title_activity_imc_calculator">ImcCalculatorActivity</string>
 
     <!--IMC APP-->
